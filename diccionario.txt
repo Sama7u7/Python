@@ -1,0 +1,2 @@
+Programar: Es el proceso de crear y ordenar instrucciones para que una computadora las ejecute y realice una tarea especÃ­fica. Traduccion: Programming
+Base de datos: Una base de datos es una herramienta para recopilar y organizar información.. Traduccion: Database
